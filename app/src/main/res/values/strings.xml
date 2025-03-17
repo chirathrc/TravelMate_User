@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">TravelMate</string>
+
+    <string name="url">https://b7a0-2402-d000-8130-741a-d9f2-b27-d617-f5ac.ngrok-free.app</string>
+
+    //getting start
+    <string name="txt01">Let\'s get started!</string>
+    <string name="txt02">Your dream travel</string>
+    <string name="txt03">Email</string>
+    <string name="txt04">Password</string>
+
+    //sign in
+    <string name="txt05">Sign In</string>
+    <string name="txt06">Register</string>
+    <string name="txt07">Back to SignIn</string>
+    <string name="txt08">OTP</string>
+    <string name="txt09">Submit</string>
+
+    //home
+    <string name="txt10">Best Travel Packages</string>
+    <string name="txt11">In SriLanka</string>
+    <string name="txt12">Search you destination</string>
+
+    <string name="nameReg">Name</string>
+    <string name="emailReg">Email</string>
+    <string name="mobileReg">Mobile</string>
+    <string name="passwordReg">Password</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <string name="title_home">Home</string>
+    <string name="booking_title">My Bookings</string>
+    <string name="title_wishlist">WishList</string>
+
+    <string name="homeFgOne">Contact Us</string>
+    <string name="home_fg_two">Location</string>
+    <string name="home_fg_three">Log Out</string>
+    <string name="home_fg_four">Home</string>
+
+    <string name="currency">$</string>
+    <string name="nights">Nights</string>
+    <string name="days">Days</string>
+    <string name="visit_us">#Visit Us !</string>
+    <string name="checkout">Checkout</string>
+    <string name="total_price">Total Price:</string>
+    <string name="number_of_persons">Number of Persons</string>
+    <string name="select_date">Select Date</string>
+    <string name="per_person">per person</string>
+    <string name="about_travelmate">About TravelMate</string>
+    <string name="our_vision">🌍 Our Vision</string>
+    <string name="vision_ravel">To revolutionize travel in Sri Lanka by offering seamless, personalized, and unforgettable travel experiences.</string>
+    <string name="our_mission">✈️ Our Mission</string>
+    <string name="mission">To provide world-class travel packages with top-tier service, making every trip an extraordinary experience.</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="mobile">Mobile :</string>
+    <string name="persons">Persons :</string>
+    <string name="date">Date :</string>
+    <string name="total_price_checkout">Total Price:</string>
+    <string name="finalize_checkout">Finalize Checkout</string>
+    <string name="location">Location</string>
+    <string name="more_details">More Details</string>
+    <string name="where_i_visit">Where I Visit?</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="buy_package">Buy Package</string>
+    <string name="p_p">P/P</string>
+    <string name="confirm_your_booking">Confirm Your Booking</string>
+    <string name="total_priceAlerts">Total Price ($) :</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirmAlert">Confirm</string>
+    <string name="full_nameUser">Full Name</string>
+    <string name="update">Update</string>
+    <string name="start_dateOrder">Start Date</string>
+    <string name="end_dateOrder">End Date</string>
+    <string name="personsOrder">Persons</string>
+    <string name="totalOrder">Total ($)</string>
+    <string name="nightsWish">| Nights:</string>
+    <string name="daysWish">Days:</string>
+
+</resources>
